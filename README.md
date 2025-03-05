@@ -80,6 +80,7 @@ PagamentoAdapter --> SistemaPagamentoAntigo : delega
 
 ### Estrutura 
 
+![image](https://github.com/user-attachments/assets/c261c170-2b8b-42f5-bbf4-7449dda8305d)
 
 ### Participantes
 
